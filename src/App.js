@@ -1,13 +1,10 @@
 
 import React from 'react';
-import Navsbar from './components/Navsbar'
-// import Home from './components/Home'
-
+import Tem from './components/Tem';
 function App() {
   return (
     <div>
-      {/* < Home /> */}
-      < Navsbar />
+      < Tem />
     </div>
   );
 }
